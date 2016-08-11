@@ -1,4 +1,5 @@
 #include "textflag.h"
+#include "go_asm.h"
 
 // func GoID() int64
 TEXT ·GoID(SB),NOSPLIT,$0-8
