@@ -1,5 +1,4 @@
 #include "textflag.h"
-#include "zasm_GOOS_GOARCH.h"
 
 // func GoID() int64
 TEXT ·GoID(SB),NOSPLIT,$0-8
